@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/2pbnfAdwCsY2Yy5lfFNWoV/36482189384dba2772603d1f4f887bca/ic-logo-one-tv?q=70", INSTITUCIONAL
+https://go.tigo.com.py/zndsk/videos/onetv/onetv_info.mp4
+#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/20201123_203043.png", TIGO SPORTS
+#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/20201123_202906.png", TIGO SPORTS +
+#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/20201123_201627.png", TIGO EVENTOS 1
+#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/20201123_201627.png", TIGO EVENTOS 2
+#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/20201123_201627.png", TIGO EVENTOS 3
